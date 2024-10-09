@@ -1,0 +1,5 @@
+Dans ce fichier il y aura comme informations utilisateurs:
+- nom
+- groupe
+- shell
+- répertoire personnel
